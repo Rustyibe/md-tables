@@ -1,0 +1,8 @@
+{
+  "name": "md-tables",
+  "version": "0.1.0",
+  "description": "Redraw markdown tables in assistant replies with true display widths, per-cell wrapping and alignment",
+  "license": "MIT",
+  "repository": "https://github.com/Rustyibe/md-tables",
+  "types": "./types/index.d.ts"
+}

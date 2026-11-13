@@ -1,0 +1,5 @@
+{
+  "name": "md-tables",
+  "owner": { "name": "Rustyibe" },
+  "plugins": [{ "name": "md-tables", "source": "./" }]
+}
